@@ -8,9 +8,11 @@ This prototype is made as a part of the Face Recognition challenge of the Micros
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Face Recognition Library (dlib)](https://github.com/davisking/dlib)
+ - [face-recognition library](https://github.com/ageitgey/face_recognition)
+ - [React JS + Chakra UI template](https://demos.creative-tim.com/docs-vision-ui-dashboard-chakra/)
+ - [Django Rest Framework](https://betterprogramming.pub/create-a-machine-learning-api-with-django-rest-framework-967571640c46)
+ 
 
 
 ## Introduction
@@ -64,7 +66,9 @@ Install dependencies and open the project with the following commands:
 ```bash
   cd Backend
   cd myproject
-  pip install requirements.txt
+  pip install -r requirements.txt
+  python manage.py makemigrations
+  python manage.py migrate
   python manage.py runserver
 ```
 
@@ -74,7 +78,7 @@ Open another terminal and perform the following tasks
 
 Install dependencies and open the project with the following commands:
 ```bash
-  cd Backend
+  cd Frontend
   npm install
   cd my-app
   npm install
