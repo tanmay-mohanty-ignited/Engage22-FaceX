@@ -1,8 +1,8 @@
 import smtplib
 from email.message import EmailMessage
 
-SENDER_EMAIL = "tanmay.mohanty18112002@gmail.com"
-APP_PASSWORD = "srtnvgnphangdzvn"
+SENDER_EMAIL = "facex.engage22@gmail.com"
+APP_PASSWORD = "duktcowlyozznrzx"
 
 def emailRecords(recipient_email, no_criminals, csv_file):
     msg = EmailMessage()
