@@ -143,8 +143,8 @@ class CriminalImgDetectViews(APIView):
         user.last_image_url = return_url
         user.save()
         
-        # if(len(result)!=0):
-        #     emailImages(user.name.email, len(result), var)
+        if(len(result)!=0):
+            emailImages(user.name.email, len(result), var)
 
         return Response({"status": "Criminal Detected", "Criminals_Detected": result, "Criminal_Count": len(result) , "Processed_Image": return_url}, status=status.HTTP_200_OK)
 
