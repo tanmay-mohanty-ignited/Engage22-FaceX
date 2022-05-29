@@ -1,0 +1,521 @@
+id,name,crimes,current_status,Timestamp
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,2.77
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,2.80
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,3.03
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.57
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.60
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.63
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.67
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.70
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.73
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.77
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.80
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.83
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.87
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.90
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.93
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,3.97
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.00
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.03
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.07
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.10
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.13
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.17
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.20
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.23
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.27
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.30
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.33
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.37
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.40
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.43
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.47
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.50
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.53
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.57
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.60
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.63
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.67
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,4.70
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.40
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.43
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.50
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.53
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.60
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.67
+9ed4b52f-8e81-4a93-8699-9c92b53d6c23,Sandra Bullock,Hit and Run,Jail,5.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.53
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.63
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.73
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.77
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.80
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.83
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.87
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.90
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.93
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,7.97
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.00
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.03
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.07
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.10
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.13
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.17
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.20
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.53
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.63
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,8.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.03
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.07
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.10
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.13
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.17
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.20
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.53
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.63
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.73
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.77
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.80
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.83
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.87
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.90
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.93
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,9.97
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.00
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.03
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.07
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.10
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.13
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,10.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.10
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.13
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.17
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.20
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.53
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.63
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.73
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.77
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.80
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.83
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.87
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.90
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.93
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,13.97
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.00
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.03
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.07
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.10
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.13
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.17
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.20
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,14.50
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.53
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.57
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.60
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.63
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.67
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.70
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.73
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.77
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.80
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.83
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.87
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.90
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.93
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,14.97
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.00
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.03
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.07
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.10
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.13
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.17
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.20
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.23
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.27
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.30
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.33
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.37
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.40
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.43
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.47
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.50
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.53
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.57
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.60
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.63
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.67
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.70
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.73
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.77
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.80
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.83
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.87
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.90
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.93
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,15.97
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.00
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.03
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.07
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.10
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.13
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.17
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.20
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.23
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,16.27
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.40
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.57
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.60
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.63
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.67
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.70
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.73
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.77
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.80
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.83
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.87
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.90
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.93
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,16.97
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.00
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.27
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.30
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.33
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.37
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.40
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.43
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.47
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.50
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.53
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.57
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.60
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.63
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.67
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.70
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.73
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.77
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.80
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.83
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.87
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.90
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.93
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,17.97
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.00
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.03
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.07
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.10
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.13
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.17
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.20
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.23
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.27
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.30
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.33
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.37
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.40
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.43
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.47
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.50
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.53
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.57
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.60
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.63
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.67
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.70
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.73
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.77
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.80
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.83
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.87
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.90
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.93
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,18.97
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.00
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.03
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.07
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.10
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.13
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.17
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.20
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.23
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.27
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.30
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.33
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.37
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.40
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.43
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.47
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.50
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.53
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.57
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.60
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.63
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.67
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.70
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.73
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.77
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.80
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.83
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.87
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.90
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.93
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,19.97
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,20.00
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,20.03
+c79c4ebb-2695-433f-b722-4cbf3f428757,Sarah Paulson,"Theft, Cyber Crime",Out on Bail,20.07
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.10
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.13
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.17
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.20
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.23
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.27
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.30
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.33
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.37
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.40
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.43
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.47
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.50
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.53
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.57
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.60
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.63
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.67
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.70
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.73
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.77
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.80
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.83
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.87
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.90
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.93
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,20.97
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.00
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.03
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.07
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.10
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.13
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.17
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.20
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.23
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.27
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.30
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.33
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.37
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.40
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.43
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.47
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.50
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.53
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.57
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.60
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.63
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,21.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.17
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.23
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.27
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.30
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.33
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.37
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.40
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.43
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.47
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.50
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.53
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.57
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.60
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.63
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.67
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.70
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.73
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.77
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.80
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.83
+cfa83ac3-8df2-404d-907b-517075d24d96,Awkwafina,Theft,Bail,26.87
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,30.87
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,30.90
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,30.93
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,30.97
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.00
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.03
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.07
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.10
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.13
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.17
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.20
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.23
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.27
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.33
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.37
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.40
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.43
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.47
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.50
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.53
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.57
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.60
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.63
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.67
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.70
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.73
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.77
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.80
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.83
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.87
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.90
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.93
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,31.97
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.00
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.03
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.07
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.10
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.13
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.17
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.20
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.23
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.27
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.33
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.37
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,32.40
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.53
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.57
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.60
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.63
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.67
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.70
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.73
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.77
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.80
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.83
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.87
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.90
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.93
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,33.97
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.00
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.03
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.07
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.10
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.13
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.17
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.20
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.23
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.27
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.33
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.37
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.40
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.43
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.47
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.50
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.53
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.57
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.60
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.63
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.67
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.70
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.73
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.77
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.80
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.83
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.87
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.90
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.93
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,34.97
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.00
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.03
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.07
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.10
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.13
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.17
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.20
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.23
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.27
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.33
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,35.37
+9f1d368e-6ba6-42ce-8c36-7a2e14913995,Rihanna,Cyber Crime,Bail,35.40
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.37
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.40
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.43
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.47
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.50
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.57
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.60
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.67
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.70
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.73
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,39.80
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,40.20
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,40.23
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,40.30
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,40.37
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,40.97
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,41.10
+81ff3702-6317-4393-b868-bc39091e525a,Mindy Kaling,Murder,Bail,41.13

@@ -267,7 +267,7 @@ function SignUp() {
                   ms='4px'
                   fontSize='sm'
                   fontWeight='normal'>
-                  Reference Face Image
+                  Profile Image
                 </FormLabel>
                 <GradientBorder
                   me={{ sm: "0px", md: "24px" }}
@@ -287,7 +287,7 @@ function SignUp() {
                     w='100%'
                     alt="Upload your File">
                     <Text color='gray.400' fontSize='sm'>
-                      {image_url.name || "Upload an image of your face"}
+                      {image_url.name || "Upload your profile image"}
                     </Text>
                     <Spacer />
                     <Button size = "sm" maxW='400px' h='25px' fontSize='10px' variant='brand' onClick={() => fileRef.current.click()}>

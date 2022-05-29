@@ -241,8 +241,8 @@ function Sidebar(props) {
           <Box>{brand}</Box>
           <Stack direction='column' mb='40px'>
             <Box>{links}</Box>
+            <SidebarHelp mx="50px"></SidebarHelp>
           </Stack>
-          <SidebarHelp></SidebarHelp>
         </Box>
       </Box>
     </Box>

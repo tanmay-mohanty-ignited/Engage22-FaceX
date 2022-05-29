@@ -16,7 +16,8 @@
 
 */
 
-import { QuestionIcon } from "@chakra-ui/icons";
+import { QuestionIcon} from "@chakra-ui/icons";
+import { GithubIcon } from "components/Icons/Icons";
 import { Button, Flex, Link, Text } from "@chakra-ui/react";
 import SidebarHelpImage from "assets/img/SidebarHelpImage.png";
 import IconBox from "components/Icons/IconBox";
@@ -38,34 +39,22 @@ export function SidebarHelp(props) {
       minH='170px'
       minW='218px'>
       <IconBox width='35px' h='35px' bg='white' mb='auto'>
-        <QuestionIcon color='brand.200' h='18px' w='18px' />
+        <Link href="https://github.com/tanmay-mohanty-ignited/Engage22-FaceX">
+          <GithubIcon color='brand.400' h='28px' w='28px' />
+        </Link>
       </IconBox>
       <Text fontSize='sm' color='white' fontWeight='bold'>
-        Need help?
-      </Text>
-      <Text fontSize='xs' color='white' mb='10px'>
-        Please check our docs
+        Check out the GitHub Link of the Project
       </Text>
       <Link
-        w='100%'
-        href='https://demos.creative-tim.com/docs-vision-ui-dashboard-chakra/'>
+        w='100%'>
         <Button
           fontSize='10px'
           fontWeight='bold'
           w='100%'
-          bg='linear-gradient(126.97deg, rgba(6, 11, 40, 0.74) 28.26%, rgba(10, 14, 35, 0.71) 91.2%)'
+          bg='transparent'
           _hover='none'
-          _active={{
-            bg: "white",
-            transform: "none",
-            borderColor: "transparent",
-          }}
-          _active='none'
-          _focus={{
-            boxShadow: "none",
-          }}
           color='white'>
-          DOCUMENTATION
         </Button>
       </Link>
     </Flex>
