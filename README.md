@@ -27,13 +27,12 @@ view his last search activities as well.
 
 To see the video demonstration, kindly use the below link to the YouTube Video.
 
-Video Demonstration \\\ link dalo
+[Video Demonstration](https://www.youtube.com/watch?v=jnighVuerLs)
 
 Please check out my blog as well, to know about the process I followed
 to develop this prototype from ideation phase to working model.
 
-Medium Blog  \\\ Tech wala
-
+[FaceX — A Crime Detection WebApp harnessing Face Recognition | Medium](https://medium.com/@tanmaymohanty.iitkgp/facex-a-crime-detection-webapp-harnessing-face-recognition-abf0a70c29ae)
 
 
 ## Tech Stack
@@ -52,7 +51,7 @@ Medium Blog  \\\ Tech wala
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/tanmay-mohanty-ignited/Engage22-FaceX.git
 ```
 
 Open a terminal and perform the following tasks
@@ -60,12 +59,25 @@ Open a terminal and perform the following tasks
 **Start the backend server**
 
 You can setup a virtual environment also (recommended)
-
+```bash
+   cd Backend
+   virtualenv env
+   .\env\Scripts\activate
+```
 Install dependencies and open the project with the following commands:
 ```bash
-  cd Backend
   cd myproject
   pip install -r requirements.txt
+```
+
+**Note:** If you face errors in installing/buidling dlib library, please follow the [link](https://stackoverflow.com/questions/41912372/dlib-installation-on-windows-10)
+
+You need to download [Visual Studio](https://visualstudio.microsoft.com/downloads/) Community Version, and install the Desktop Development with C++. Then 
+download [CMake](https://cmake.org/download/) and install it. Make sure you add the path to the bin folder of CMake in Program Files of C Drive, to environment variables. For more details, use the link to the [issue](https://stackoverflow.com/questions/41912372/dlib-installation-on-windows-10).
+
+
+Now to run the backend server, use the following commands:
+```bash
   python manage.py makemigrations
   python manage.py migrate
   python manage.py runserver
@@ -86,7 +98,7 @@ Install dependencies and open the project with the following commands:
 
 The project would open up on your browser.
 
-Sign Up and then you can login into the system
+Sign Up using a valid Email ID and then you can login into the system.
 
 ## Features
 
@@ -112,21 +124,27 @@ Sign Up and then you can login into the system
 ## Screenshots of UI and Features
 
 Sign In Page
+
 ![SignIn](https://user-images.githubusercontent.com/74351903/170859536-1e0bbeae-e5fb-41d3-94da-c06966c7efb3.png)
 
 User Dashboard
+
 ![Dashboard](https://user-images.githubusercontent.com/74351903/170859323-0238c523-da63-4510-bb68-c219eefddb86.png)
 
 Criminal Records with Edit/Delete/Add
+
 ![CriminalRecords](https://user-images.githubusercontent.com/74351903/170859326-c868588b-275a-4a11-b996-4c5e2cb963db.png)
 
 Search for Criminals in Images
+
 ![SearchInImage](https://user-images.githubusercontent.com/74351903/170859332-20f1cfa4-3d7a-432a-a2b9-84b98da7fefb.png)
 
 Search for Criminals in Videos
+
 ![SearchInVideo](https://user-images.githubusercontent.com/74351903/170859334-a8abbfe0-a52c-4fbb-8004-59b4c1a7d49f.png)
 
 Screenshot from Output Video
+
 ![ProcessedVideo](https://user-images.githubusercontent.com/74351903/170859335-836b23e7-456a-4659-9892-7575b0d8005e.png)
 
 
@@ -159,12 +177,12 @@ I would like to thank Acehacker and Microsoft for this amazing opportunity.
 
 Do check my Medium blog on my experience as a mentee in this program:
 
-\\\ Add Medium blog link
+[“Learning by Doing”— My Experience of Microsoft Engage 2022](https://medium.com/@tanmaymohanty.iitkgp/learning-by-doing-my-experience-of-microsoft-engage-2022-1eec51d8fdc6)
 
 Do connect with me through LinkedIn or Email and message me your recommendations regarding 
 any improvements.
 
-\\\ Add Linkedin and email links if possible
+[LinkedIn](https://www.linkedin.com/in/tanmay-mohanty-iitkgp/)
 
 ## License
 
