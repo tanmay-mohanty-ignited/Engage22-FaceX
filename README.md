@@ -112,17 +112,23 @@ Sign Up and then you can login into the system
 ## Screenshots of UI and Features
 
 Sign In Page
-![SignIn](https://user-images.githubusercontent.com/74351903/170859318-73c42139-3e1f-4bd2-97d2-717adacea774.png)
+![SignIn](https://user-images.githubusercontent.com/74351903/170859536-1e0bbeae-e5fb-41d3-94da-c06966c7efb3.png)
+
 User Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/74351903/170859323-0238c523-da63-4510-bb68-c219eefddb86.png)
+
 Criminal Records with Edit/Delete/Add
 ![CriminalRecords](https://user-images.githubusercontent.com/74351903/170859326-c868588b-275a-4a11-b996-4c5e2cb963db.png)
+
 Search for Criminals in Images
 ![SearchInImage](https://user-images.githubusercontent.com/74351903/170859332-20f1cfa4-3d7a-432a-a2b9-84b98da7fefb.png)
+
 Search for Criminals in Videos
 ![SearchInVideo](https://user-images.githubusercontent.com/74351903/170859334-a8abbfe0-a52c-4fbb-8004-59b4c1a7d49f.png)
+
 Screenshot from Output Video
 ![ProcessedVideo](https://user-images.githubusercontent.com/74351903/170859335-836b23e7-456a-4659-9892-7575b0d8005e.png)
+
 
 ## Programming Languages Used
 
