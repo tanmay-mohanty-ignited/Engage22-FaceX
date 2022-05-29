@@ -15,48 +15,30 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import React, {useState, useRef, useEffect, useReducer} from "react";
+import React, {useState, useRef} from "react";
 import axios from "axios"
 // Chakra imports
-import { Box, Button, Flex, Grid, Icon, Spacer, Spinner, Text } from "@chakra-ui/react";
-import {
-  IoEllipsisHorizontal,
-} from "react-icons/io5";
+import { Button, Flex, Grid, Spacer, Spinner, Text } from "@chakra-ui/react";
 
-import * as GradientProgress from "@delowar/react-circle-progressbar";
 
 // Images
-import BackgroundCard1 from "assets/img/billing-background-card.png";
 
 // Custom components
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
 import CardHeader from "components/Card/CardHeader.js";
 import GradientBorder from "components/GradientBorder/GradientBorder";
-import IconBox from "components/Icons/IconBox";
 import BillingRow from "components/Tables/BillingRow";
-import InvoicesRow from "components/Tables/InvoicesRow";
-import TransactionRow from "components/Tables/TransactionRow";
 
 // Icons
-import { FaPencilAlt, FaRegCalendarAlt } from "react-icons/fa";
-import { IoEllipsisHorizontalSharp } from "react-icons/io5";
-import { RiMastercardFill } from "react-icons/ri";
-import {
-  BillIcon,
-  GraphIcon,
-  MastercardIcon,
-  VisaIcon,
-} from "components/Icons/Icons";
 
 // Data
-import {
-  invoicesData,
-  newestTransactions,
-  olderTransactions,
-} from "variables/general";
 
-function Billing() {
+/**************************************************************************************
+ * Return function of Detect Criminals in Images
+ **************************************************************************************/
+
+function SearchImage() {
   const fileRef = useRef(null);
   const [files, setFiles] = useState([]);
   const [billingData, setBillingData] = useState([]);
@@ -208,4 +190,4 @@ function Billing() {
   );
 }
 
-export default Billing;
+export default SearchImage;

@@ -16,7 +16,7 @@
 
 */
 
-import React, {useState, useRef, useEffect} from "react";
+import React, {useState} from "react";
 import axios from "axios"
 import { useHistory } from "react-router-dom";
 // Chakra imports
@@ -29,18 +29,19 @@ import {
   Heading,
   Input,
   Link,
-  Switch,
   Text,
-  DarkMode,
 } from "@chakra-ui/react";
 
 // Assets
-import signInImage from "assets/img/signInImage.png";
 import SignInBg from "assets/img/SignInBg.gif";
 
 // Custom Components
 import AuthFooter from "components/Footer/AuthFooter";
 import GradientBorder from "components/GradientBorder/GradientBorder";
+
+/**************************************************************************************
+ * Return Function of Sign In page
+ **************************************************************************************/
 
 function SignIn() {
   const titleColor = "white";

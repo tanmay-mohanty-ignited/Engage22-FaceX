@@ -24,7 +24,6 @@ import {
   Flex,
   Table,
   Tbody,
-  Icon,
   Spacer,
   Text,
   IconButton,
@@ -42,20 +41,19 @@ import CardHeader from "components/Card/CardHeader.js";
 import CardBody from "components/Card/CardBody.js";
 
 // Table Components
-import TablesProjectRow from "components/Tables/TablesProjectRow";
 import TablesTableRow from "components/Tables/TablesTableRow";
 
 // Data
-import { tablesProjectData } from "variables/general";
 
 // Icons
-import { AiFillCheckCircle } from "react-icons/ai";
 import { SearchIcon } from "@chakra-ui/icons";
 let inputBg = "#0F1535";
 let mainText = "gray.400";
-let navbarIcon = "white";
 let searchIcon = "white";
 
+/**************************************************************************************
+ * Return function of Criminal Records Table
+ **************************************************************************************/
 
 function Tables() {
 

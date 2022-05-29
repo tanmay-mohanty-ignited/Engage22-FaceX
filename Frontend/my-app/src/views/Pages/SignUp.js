@@ -16,10 +16,9 @@
 
 */
 
-import React, {useState, useRef, useEffect} from "react";
+import React, {useState, useRef} from "react";
 import axios from "axios"
 import { useHistory } from "react-router-dom";
-// import Webcam from "components/Webcam/webcam";
 
 // Chakra imports
 import {
@@ -28,25 +27,23 @@ import {
   Button,
   FormControl,
   FormLabel,
-  HStack,
   Spacer,
   Input,
   Link,
-  Switch,
   Text,
-  Icon,
-  DarkMode,
 } from "@chakra-ui/react";
 
 // Icons
-import { FaApple, FaFacebook, FaGoogle } from "react-icons/fa";
 // Custom Components
-import AuthFooter from "components/Footer/AuthFooter";
 import GradientBorder from "components/GradientBorder/GradientBorder";
 
 // Assets
 import SignUpBg from "assets/img/SignUpBg.png";
-import signUpImage from "assets/img/signUpImage.png";
+
+
+/**************************************************************************************
+ * Return Funcntion of SignUp Page
+ **************************************************************************************/
 
 function SignUp() {
   const titleColor = "white";

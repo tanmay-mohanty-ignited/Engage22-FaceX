@@ -24,53 +24,31 @@ import {
   Button,
   Flex,
   Grid,
-  Icon,
-  Spacer,
   Text,
   FormControl,
   FormLabel,
   Input,
-  Switch,
-  DarkMode,
 } from "@chakra-ui/react";
 
 // Images
-import BackgroundCard1 from "assets/img/billing-background-card.png";
 
 // Custom components
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
 import CardHeader from "components/Card/CardHeader.js";
 import GradientBorder from "components/GradientBorder/GradientBorder";
-import IconBox from "components/Icons/IconBox";
-import BillingRow from "components/Tables/BillingRow";
-import InvoicesRow from "components/Tables/InvoicesRow";
-import TransactionRow from "components/Tables/TransactionRow";
 
 // Icons
-import { FaPencilAlt, FaRegCalendarAlt } from "react-icons/fa";
-import { IoEllipsisHorizontalSharp } from "react-icons/io5";
-import { RiMastercardFill } from "react-icons/ri";
-import {
-  BillIcon,
-  GraphIcon,
-  MastercardIcon,
-  VisaIcon,
-} from "components/Icons/Icons";
 
 // Data
-import {
-  billingData,
-  invoicesData,
-  newestTransactions,
-  olderTransactions,
-} from "variables/general";
 
-function Billing() {
+/**************************************************************************************
+ * Return function of Edit Criminal Page
+ **************************************************************************************/
+
+function EditCriminal() {
   const history = useHistory();
   const titleColor = "white";
-  const textColor = "gray.400";
-  const fileRef = useRef(null);
   const [files, setFiles] = useState([]);
   const { id } = useParams();
   const [name, set_name] = useState("");
@@ -83,22 +61,6 @@ function Billing() {
   const [showVariables, setShowVariables] = useState([])
   const token = localStorage.getItem('AccessToken')
 
-  const detectCriminals = () => {
-    const file = files[0];
-    const form_data = new FormData();
-    form_data.append("query_image_url", files[0]);
-    if (file) {
-      try {
-        axios.post("http://localhost:8000/api/criminal-image-detection/", form_data, {
-          headers: {
-            'content-type': 'multipart/form-data', 'Authorization': `Bearer ${token}`
-          }
-        })
-          .then(res => console.log(res.data))
-          .catch(err => console.log(err))
-      } catch (err) { console.log(err); };
-    }
-  };
 
   const handleEdit = () => {
     const form_data = new FormData();
@@ -115,7 +77,7 @@ function Billing() {
         headers: {
           'content-type': 'multipart/form-data', 'Authorization': `Bearer ${token}`
         }
-      }).then(res => {
+      }).then(() => {
         alert("Criminal Record Updated.");
         history.push("/admin/tables");
       })
@@ -267,4 +229,4 @@ function Billing() {
   );
 }
 
-export default Billing;
+export default EditCriminal;

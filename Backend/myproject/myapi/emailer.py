@@ -1,9 +1,11 @@
 import smtplib
 from email.message import EmailMessage
 
+# Email Credentials for Mailing 
 SENDER_EMAIL = "facex.engage22@gmail.com"
 APP_PASSWORD = "monotzwzmrhzkjyl"
 
+# CSV Emailing Function
 def emailRecords(recipient_email, no_criminals, csv_file):
     msg = EmailMessage()
     msg['Subject'] = "Video Processing Complete | Check Results"
@@ -22,6 +24,7 @@ def emailRecords(recipient_email, no_criminals, csv_file):
         smtp.send_message(msg)
 
 
+# Image Emailing Function
 def emailImages(recipient_email, no_criminals, image_file):
     msg = EmailMessage()
     msg['Subject'] = "Image Processing Complete | Check Results"

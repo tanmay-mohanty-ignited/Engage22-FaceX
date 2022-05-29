@@ -15,67 +15,34 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import React, {useState, useEffect, useReducer} from "react";
+import React, {useState, useEffect} from "react";
 import axios from "axios";
 
 // Chakra imports
 import {
   Avatar,
-  AvatarBadge,
-  AvatarGroup,
-  Box,
-  Button,
-  DarkMode,
   Flex,
   Grid,
-  Icon,
-  Image,
-  Link,
-  Switch,
   Text,
 } from "@chakra-ui/react";
 
 // Images
-import avatar2 from "assets/img/avatars/avatar2.png";
-import avatar3 from "assets/img/avatars/avatar3.png";
-import avatar4 from "assets/img/avatars/avatar4.png";
-import avatar6 from "assets/img/avatars/avatar6.png";
-import avatar11 from "assets/img/avatars/avatar11.png";
 import bgProfile from "assets/img/bgProfile.png";
-import ProjectImage1 from "assets/img/ProjectImage1.png";
-import ProjectImage2 from "assets/img/ProjectImage2.png";
-import ProjectImage3 from "assets/img/ProjectImage3.png";
 
 // Custom components
 // import Webcam from "components/Webcam/webcam";
 import Card from "components/Card/Card";
 import CardBody from "components/Card/CardBody";
 import CardHeader from "components/Card/CardHeader";
-import LineChart from "components/Charts/LineChart";
-import * as GradientProgress from "@delowar/react-circle-progressbar";
-import IconBox from "components/Icons/IconBox";
 import { Separator } from "components/Separator/Separator";
 
 // Icons
-import { IoDocumentsSharp } from "react-icons/io5";
-import { BsArrowRight } from "react-icons/bs";
-import {
-  FaCube,
-  FaFacebook,
-  FaInstagram,
-  FaPencilAlt,
-  FaPenFancy,
-  FaTwitter,
-} from "react-icons/fa";
-import { CarIcon, FulgerIcon, FulgerWhiteIcon } from "components/Icons/Icons";
 
 // Data
-import {
-  lineChartDataProfile1,
-  lineChartDataProfile2,
-  lineChartOptionsProfile1,
-  lineChartOptionsProfile2,
-} from "variables/charts";
+
+/**************************************************************************************
+ * Return function of Dashboard Page
+ **************************************************************************************/
 
 function Profile() {
 

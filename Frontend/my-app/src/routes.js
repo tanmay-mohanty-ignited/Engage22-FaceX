@@ -17,12 +17,10 @@
 */
 
 // import
-import Dashboard from "views/Dashboard/Dashboard.js";
 import Tables from "views/Dashboard/Tables.js";
 // import Billing from "views/Dashboard/Billing.js";
 import AddCriminal from "views/Dashboard/AddCriminal.js";
 import EditCriminal from "views/Dashboard/EditCriminal.js";
-import RTLPage from "views/RTL/RTLPage.js";
 import Profile from "views/Dashboard/Profile.js";
 import SignIn from "views/Pages/SignIn.js";
 import SignUp from "views/Pages/SignUp.js";
@@ -31,17 +29,17 @@ import Video from "views/Dashboard/Video.js";
 
 import {
   HomeIcon,
-  StatsIcon,
-  CreditIcon,
   PersonIcon,
-  DocumentIcon,
   RocketIcon,
-  SupportIcon,
   VideoIcon,
   ImageIcon,
 } from "components/Icons/Icons";
 
-import { Search2Icon, AddIcon, ArrowUpIcon } from "@chakra-ui/icons";
+import { Search2Icon, ArrowUpIcon } from "@chakra-ui/icons";
+
+/**************************************************************************************
+ * Defining all the routes of the pages I created
+ **************************************************************************************/
 
 var dashRoutes = [
   {

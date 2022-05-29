@@ -1,5 +1,5 @@
-from django.shortcuts import get_object_or_404, render
-from rest_framework import viewsets, status, permissions
+from django.shortcuts import get_object_or_404
+from rest_framework import status
 from myapi.models import *
 from myapi.serializers import *
 from rest_framework.views import APIView
@@ -19,7 +19,10 @@ from pathlib import Path
 
 # Create your views here.
 
+# Base Directory for data files
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Class for containing functions for Adding / Accessing / Updating / Deleting Criminal Records respectively
 
 class CriminalViewSet(APIView):
     authentication_classes = [JWTAuthentication]
@@ -76,6 +79,7 @@ class CriminalViewSet(APIView):
         return Response({"status": "success", "data": "Item Deleted"})
 
 
+# Function to take in suspect image, process it and find criminal matches + Respond and Mail the results
 
 class CriminalImgDetectViews(APIView):
     authentication_classes = [JWTAuthentication]
@@ -160,6 +164,7 @@ class CriminalImgDetectViews(APIView):
         return Response({"status": "success", "data": serializer.data}, status=status.HTTP_200_OK)
 
 
+# Function to take in suspect videos, process it and find criminal matches + Respond and Mail the results
 
 class CriminalVideoDetectViews(APIView):
     authentication_classes = [JWTAuthentication]
@@ -261,6 +266,8 @@ class CriminalVideoDetectViews(APIView):
         return Response({"status": "success", "data": serializer.data}, status=status.HTTP_200_OK)
 
 
+# Function to register new users to the webapp
+
 class Register(APIView):
     def post(self, request):
         username = request.data['username']
@@ -296,7 +303,9 @@ class Register(APIView):
                     'access': str(refresh.access_token)
                 })
         
-        
+
+# Function to access User details for displaying in Dashboard
+
 class AppUserView(APIView):
     authentication_classes = [JWTAuthentication]
     permission_classes = [IsAuthenticated]

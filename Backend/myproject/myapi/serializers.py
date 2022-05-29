@@ -2,7 +2,7 @@ from rest_framework import serializers
 from myapi.models import *
 from django.contrib.auth.models import User
 
-
+# Serializers for all the models
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
