@@ -29,6 +29,8 @@ To see the video demonstration, kindly use the below link to the YouTube Video.
 
 [Video Demonstration](https://www.youtube.com/watch?v=jnighVuerLs)
 
+I have added the resultant image and video of the processes I demonstrated in the above video in the Results Folder
+
 Please check out my blog as well, to know about the process I followed
 to develop this prototype from ideation phase to working model.
 
@@ -40,6 +42,10 @@ to develop this prototype from ideation phase to working model.
 **Frontend:** React, Chakra UI 
 
 **Backend:** Django Rest Framework 
+
+## Agile Methodology and Project Timeline
+
+![ProjectTimeline](https://user-images.githubusercontent.com/74351903/170884049-a4b73a97-ffa0-42fc-93f9-fd60a4160b3e.PNG)
 
 
 ## Tech Architecture
